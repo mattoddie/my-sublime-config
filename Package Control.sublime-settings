@@ -2,8 +2,8 @@
 	"installed_packages":
 	[
 		"Git",
+		"GoSublime",
 		"Package Control",
-		"Theme - Soda",
-		"GoSublime"
+		"Theme - Soda"
 	]
 }
