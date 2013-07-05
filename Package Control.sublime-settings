@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Git",
+		"GitGutter",
 		"GoSublime",
 		"Package Control",
 		"Theme - Soda"
